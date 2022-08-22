@@ -1,0 +1,15 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/odpf/shield/releases/download/v0.4.0/shield_0.4.0_windows_x86_64.zip",
+            "bin": [
+                "shield.exe"
+            ],
+            "hash": "0861496935740140c8353f089b1373f91c08edf2a95602b76ad74badf6a76b0d"
+        }
+    },
+    "homepage": "https://github.com/odpf/shield",
+    "license": "Apache 2.0",
+    "description": "Identity and authorization system"
+}
