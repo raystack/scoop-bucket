@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/odpf/stencil/releases/download/v0.3.0/stencil_0.3.0_windows_i386.zip",
+            "bin": [
+                "stencil.exe"
+            ],
+            "hash": "2b81a0ab15cbb62d530f5713f02c9a9f68aa5a100121cd431c583422ebce8f01"
+        },
+        "64bit": {
+            "url": "https://github.com/odpf/stencil/releases/download/v0.3.0/stencil_0.3.0_windows_x86_64.zip",
+            "bin": [
+                "stencil.exe"
+            ],
+            "hash": "94e933aa56402a9380afab7f2857613691bc700ccfb1e9f498b5edd31b65590c"
+        }
+    },
+    "homepage": "https://github.com/odpf/stencil",
+    "license": "Apache 2.0",
+    "description": "Schema registry"
+}
