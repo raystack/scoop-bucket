@@ -6,14 +6,14 @@
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "a78f4e51da8a66e49629d18af50de0cce6f808a5ba7a394a089f8b47b449716d"
+            "hash": "8dbca58275af1a546ed1837c9265e87998534bc46d96744ea5d742d86567ebdf"
         },
         "64bit": {
             "url": "https://github.com/odpf/guardian/releases/download/v0.4.4/guardian_0.4.4_windows_x86_64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "28d4e1877fe7bb6e22bfcd8b2328c02b4340f67f72a74629a635889fd892033e"
+            "hash": "a681dc40c191a9461f307b861023e16d69ec845db148315870bcb1b01eb7fae9"
         }
     },
     "homepage": "https://github.com/odpf/guardian",
