@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/odpf/compass/releases/download/v0.3.0/compass_0.3.0_windows_i386.zip",
+            "bin": [
+                "compass.exe"
+            ],
+            "hash": "8d56f1c998bb001731e46d2c127d43440f755ac60c88ace58cfe73179e3002d0"
+        },
+        "64bit": {
+            "url": "https://github.com/odpf/compass/releases/download/v0.3.0/compass_0.3.0_windows_x86_64.zip",
+            "bin": [
+                "compass.exe"
+            ],
+            "hash": "e18ccfd4b055a49a14a5568c98d2480d6d4b9b5b909db5a8314acec9c27b96dc"
+        }
+    },
+    "homepage": "https://github.com/odpf/compass",
+    "license": "Apache 2.0",
+    "description": "Metadata Discovery and Lineage Service"
+}
