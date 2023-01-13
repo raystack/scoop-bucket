@@ -1,19 +1,19 @@
 {
-    "version": "0.5.2-rc3",
+    "version": "0.5.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/odpf/guardian/releases/download/v0.5.2-rc3/guardian_0.5.2-rc3_windows_i386.zip",
+            "url": "https://github.com/odpf/guardian/releases/download/v0.5.2/guardian_0.5.2_windows_i386.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "d65ffcf9c9d1f7adc234c4e37b267a738c9e5b735552e60fcde12e4a51cdf0a2"
+            "hash": "3831417941cf9817687bb58a4f8972a290f2575432fbdd8503b556a2e11317bd"
         },
         "64bit": {
-            "url": "https://github.com/odpf/guardian/releases/download/v0.5.2-rc3/guardian_0.5.2-rc3_windows_x86_64.zip",
+            "url": "https://github.com/odpf/guardian/releases/download/v0.5.2/guardian_0.5.2_windows_x86_64.zip",
             "bin": [
                 "guardian.exe"
             ],
-            "hash": "eaeb9e8b2b872420851088595acc1bfb8505df01260e4fda05a8787a20b24146"
+            "hash": "283f6aae8b1222e951eac12e218fc5a6a8d51826e3c6834605c84a308dee548a"
         }
     },
     "homepage": "https://github.com/odpf/guardian",
