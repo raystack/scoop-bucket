@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1-rc1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/odpf/compass/releases/download/v0.3.0/compass_0.3.0_windows_i386.zip",
+            "url": "https://github.com/odpf/compass/releases/download/v0.3.1-rc1/compass_0.3.1-rc1_windows_i386.zip",
             "bin": [
                 "compass.exe"
             ],
-            "hash": "8d56f1c998bb001731e46d2c127d43440f755ac60c88ace58cfe73179e3002d0"
+            "hash": "68afbbc0d1caf5e2e9e9f00ba18560c616ceb100f0faa41f60951629d7daba64"
         },
         "64bit": {
-            "url": "https://github.com/odpf/compass/releases/download/v0.3.0/compass_0.3.0_windows_x86_64.zip",
+            "url": "https://github.com/odpf/compass/releases/download/v0.3.1-rc1/compass_0.3.1-rc1_windows_x86_64.zip",
             "bin": [
                 "compass.exe"
             ],
-            "hash": "e18ccfd4b055a49a14a5568c98d2480d6d4b9b5b909db5a8314acec9c27b96dc"
+            "hash": "67149be633b45d1b020d4a9cb9483e03405b54e79c92499f3c9a64bbcb93eb4e"
         }
     },
     "homepage": "https://github.com/odpf/compass",
