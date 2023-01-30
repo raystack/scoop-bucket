@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0-alpha",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/odpf/shield/releases/download/v0.5.0-alpha/shield_0.5.0-alpha_windows_x86_64.zip",
+            "url": "https://github.com/odpf/shield/releases/download/v0.5.0/shield_0.5.0_windows_x86_64.zip",
             "bin": [
                 "shield.exe"
             ],
-            "hash": "f604862d5ed2aca4083284dbb0730c9e8cbd44cf830e1d78d826a9a8c1210749"
+            "hash": "a2e3b0b858856c5748ddce678e9943f6a309fd1d80ffec96202726e27b210207"
         }
     },
     "homepage": "https://github.com/odpf/shield",
