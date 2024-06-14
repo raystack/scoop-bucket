@@ -1,0 +1,22 @@
+{
+    "version": "0.10.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/raystack/meteor/releases/download/v0.10.0/meteor_0.10.0_windows_amd64.zip",
+            "bin": [
+                "meteor.exe"
+            ],
+            "hash": "fcec92167f243b8cf3cb4e01824d01246bb3e0bad038576fb01f74aee409c7ee"
+        },
+        "arm64": {
+            "url": "https://github.com/raystack/meteor/releases/download/v0.10.0/meteor_0.10.0_windows_arm64.zip",
+            "bin": [
+                "meteor.exe"
+            ],
+            "hash": "001edb41174b63fe99a9bdb74913cb3ed5b6287bbd58795fccbfef242a22ad7f"
+        }
+    },
+    "homepage": "https://github.com/raystack/meteor",
+    "license": "Apache 2.0",
+    "description": "Metadata collection tool."
+}
