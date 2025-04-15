@@ -1,19 +1,19 @@
 {
-    "version": "0.57.0",
+    "version": "0.58.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/raystack/frontier/releases/download/v0.57.0/frontier_Windows_x86_64.zip",
+            "url": "https://github.com/raystack/frontier/releases/download/v0.58.0/frontier_Windows_x86_64.zip",
             "bin": [
                 "frontier.exe"
             ],
-            "hash": "9ad86a9cb5107c84347d6482366620e2254203f179d0e450c7671ba232673993"
+            "hash": "ceb80fb03002a83a09697a11d0b015c4888411125432d190474b4dfbdd38ad6b"
         },
         "arm64": {
-            "url": "https://github.com/raystack/frontier/releases/download/v0.57.0/frontier_Windows_arm64.zip",
+            "url": "https://github.com/raystack/frontier/releases/download/v0.58.0/frontier_Windows_arm64.zip",
             "bin": [
                 "frontier.exe"
             ],
-            "hash": "ecc7548be7547714df6eff6707393f81f55a6787ca682b593a35667df6a0f620"
+            "hash": "b0a4f3bf3ce4a286a28bc302b0cfe7ff49ca529dc75bc6dd4b1eaa7252bcdd78"
         }
     },
     "homepage": "https://github.com/raystack/frontier",
