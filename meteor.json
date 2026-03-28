@@ -1,19 +1,19 @@
 {
-    "version": "0.11.0",
+    "version": "0.12.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/raystack/meteor/releases/download/v0.11.0/meteor_0.11.0_windows_amd64.zip",
+            "url": "https://github.com/raystack/meteor/releases/download/v0.12.0/meteor_0.12.0_windows_amd64.zip",
             "bin": [
                 "meteor.exe"
             ],
-            "hash": "2f1eaf9e8b515ae8078515f4a710d79b7861e56b74c30412efa9349dfb543f3c"
+            "hash": "877626fa8f2ba2a371e7d7bac731cf9ee74e48f77ec8a60ad83613ad3aab3ee1"
         },
         "arm64": {
-            "url": "https://github.com/raystack/meteor/releases/download/v0.11.0/meteor_0.11.0_windows_arm64.zip",
+            "url": "https://github.com/raystack/meteor/releases/download/v0.12.0/meteor_0.12.0_windows_arm64.zip",
             "bin": [
                 "meteor.exe"
             ],
-            "hash": "031dadbd61e0d8b7b485fb5069faf3b3b475b45f430c0f604cd4128b7e13947b"
+            "hash": "446ad978e14c44c32f5c695eb9c9b98b80596aabfd35fdbcf0ecc2ccf38f37ab"
         }
     },
     "homepage": "https://github.com/raystack/meteor",
